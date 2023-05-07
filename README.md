@@ -61,6 +61,6 @@ In this article, we have proposed a hypothesis that dark matter was generated al
 
 ## Quoting this article:
 
-Boeira, J. N. R. (2023). Dark Matter as Non-Aggregative Matter: A Hypothesis on github.com/naomijub/dark-matter @ commit #
+Boeira, J. N. R. (2023). Dark Matter as Non-Aggregative Matter: A Hypothesis on github.com/naomijub/dark-matter @ commit c8b768d
 
 * Note that CHatGPT was fundamental helping the articles review and text elaboration.
