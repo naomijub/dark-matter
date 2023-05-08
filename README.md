@@ -12,7 +12,7 @@ The nature and origin of dark matter remain largely unknown, and various hypothe
 
 ## Evidence for Non-Aggregative Dark Matter
 
-Our hypothesis is supported by various observations. For example, simulations of the formation and evolution of galaxies and clusters of galaxies show that dark matter plays a crucial role in their structure and dynamics [3] [4]. However, these simulations[6] assume that dark matter behaves in a baryonic matter-like model, which is known to aggregate and form structures. On the other hand, *Tulin and Yu*suggest that dark-matter may interact with itself not only in a gravitational way, but in some other hidden force [5].
+Our hypothesis is supported by various observations. For example, simulations of the formation and evolution of galaxies and clusters of galaxies show that dark matter plays a crucial role in their structure and dynamics [3] [4]. However, these simulations[6] assume that dark matter behaves in a baryonic matter-like model, which is known to aggregate and form structures. On the other hand, *Tulin and Yu* suggest that dark-matter may interact with itself not only in a gravitational way, but in some other hidden force [5].
 
 Observations of the cosmic microwave background radiation (CMB) also support our hypothesis. The CMB is the oldest light in the universe, and it provides a snapshot of the universe when it was only 380,000 years old. The CMB shows small fluctuations in temperature that correspond to variations in the density of matter in the early universe. These fluctuations are consistent with the predictions of the standard model of cosmology, which assumes that dark matter behaves like baryonic matter. However, our hypothesis predicts that dark matter should not show these fluctuations, since it does not aggregate like baryonic matter [7] [8].
 
@@ -63,4 +63,4 @@ In this article, we have proposed a hypothesis that dark matter was generated al
 
 Boeira, J. N. R. (2023). Dark Matter as Non-Aggregative Matter: A Hypothesis on github.com/naomijub/dark-matter @ commit c8b768d
 
-* Note that CHatGPT was fundamental helping the articles review and text elaboration.
+* Note that ChatGPT was fundamental helping the articles review and text elaboration.
